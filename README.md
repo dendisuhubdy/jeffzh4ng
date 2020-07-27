@@ -4,6 +4,6 @@
 ## Hi there 👋, 
 I'm a fullstack software engineer focused on Typescript and Rust 👨🏻‍💻. Interested in all things computer science. When I'm not coding, I try my best to finish my degree in Mathematics at the University of Waterloo.
 
-Previously interned at IBM, working on crritical data analytics for IBM Watson's Risk Management software. I also interned as a full stack engineer for eight months at a Sequoia-backed startup, Setter. I was a core member on the engineering team, and heavily contributed to the success of our series B funding 💪.
+Previously interned at IBM, working on critical data analytics for IBM Watson's Risk Management software. I also interned as a full stack engineer for eight months at a Sequoia-backed startup, Setter. I was a core member on the engineering team, and heavily contributed to the success of our series B funding 💪.
 
 I'm currently open for internship opportunities, feel free to reach out 😊
